@@ -1,5 +1,5 @@
 ### Employees Diversity & Inclusion Analysis Focusing Gender 
-- Live dashboard: https://app.powerbi.com/reportEmbed?reportId=4fc87244-53b3-417c-b03c-a4f4627f417f&autoAuth=true&ctid=f32b2380-e473-4691-8ba9-71915e0a20cd
+- Live dashboard: [https://app.powerbi.com/reportEmbed?reportId=4fc87244-53b3-417c-b03c-a4f4627f417f&autoAuth=true&ctid=f32b2380-e473-4691-8ba9-71915e0a20cd](https://app.powerbi.com/view?r=eyJrIjoiZTM5NGUzMGEtZGU0MC00ZmRkLWE5MzItZDE3Y2IxMzc1Nzc3IiwidCI6ImYzMmIyMzgwLWU0NzMtNDY5MS04YmE5LTcxOTE1ZTBhMjBjZCJ9&pageName=ReportSectionef9b3b3ae42053ed1607)
 #### Domain: Human Resource
 #### Objective:
 To create a dashboard that visualizes KPIs reflecting diversity and inclusion, focusing on gender parity at different levels in a company. Analyze the root cause of gender balance issues
